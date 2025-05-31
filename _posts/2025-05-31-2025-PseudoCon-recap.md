@@ -65,7 +65,7 @@ Hub Garden 팀에서는 이 Hub를 활용해 **자신만의 데이터셋을 구�
     <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/허브1.png" width="500"/>
 </div>
 
-직접 구축한 데이터셋으로 훈련한 모델로 [*가상 여자친구 Exagirl와의 롤플레잉*](https://huggingface.co/spaces/huggingface-KREW/EXAGIRL-7.8B) 체험도 제공 했는데요, 수 많은 참가자들이 엑사걸을 찾아주셨다고 합니다. 😂
+직접 구축한 데이터셋으로 훈련한 모델로 [*가상 여자친구 Exagirl와의 롤플레잉*](https://huggingface.co/spaces/huggingface-KREW/EXAGIRL-7.8B) 체험도 제공했는데요, 수많은 참가자들이 엑사걸을 찾아주셨다고 합니다. 😂
 
 4가지 Hub Garden 프로젝트에서 구축한 데이터셋과 모델은 [이곳](https://huggingface.co/huggingface-KREW)에서 확인 가능합니다! 
 
