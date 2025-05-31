@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1321" alt="image" src="https://github.com/user-attachments/assets/b2ca183d-ec22-4b03-bbb7-462838506af2" /><div align="center">
     <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/수도콘.webp" width="350"/>
 </div>
 
@@ -41,16 +41,17 @@ Beyond First PR 프로젝트에서는 Hugging Face에 존재하는 다양한 오
     <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드2.png" width="500"/>
 </div>
 
-Beyond First PR 부스에서는 현재 진행중인 코드기여 이슈들과 진행 과정, 코드기여 과정 중 어려웠던 점들을 꾹꾹 눌러담은 가이드북을 제작해,
+Beyond First PR 부스에서는 현재 진행중인 코드기여 이슈들과 진행 과정, 코드기여 과정 중 어려웠던 점들을 꾹꾹 눌러담은 [가이드북](https://github.com/user-attachments/files/20533125/HuggingFaceKREW-BeyondFirstPR.2.pdf)
+을 제작해,
 
  PseudoCon을 찾아주신 참가자분들께 오픈소스 기여를 독려해주셨는데요!
-
-![비욘드3](assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드3.png)
-
-이 가이드북 외에도 `첫 코드기여 이슈 찾는 법`과 `기술 문서 번역` 가이드도 함께 제공하여, 오픈소스에 기여하고 싶지만 도전하기 어려우셨던 분들, 어떻게 기여점을 찾으면 좋을까 고민하시던 분들께 마중물 같은 시간이 되었으리라 생각합니다!
+<div align="center">
+    <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드3.png" width="400"/>
+</div>
+이 가이드북 외에도 `첫 코드기여 이슈 찾는 법`과 `[기술 문서 번역](https://yijunlee.notion.site/hugging-face-transformers-translation-guide)` 가이드도 함께 제공하여, 오픈소스에 기여하고 싶지만 도전하기 어려우셨던 분들, 어떻게 기여점을 찾으면 좋을까 고민하시던 분들께 마중물 같은 시간이 되었으리라 생각합니다!
 
 <div align="center">
-    <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드4.png" width="500"/>
+    <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드5.png" width="500"/>
 </div>
 
 # 🌿 Hugging Face Hub Garden
