@@ -35,7 +35,7 @@ Hugging Face에는 오픈소스 도구와 모델을 활용해 AI 애플리케이
 
 오픈소스 기여의 꽃, 코드기여에 관심을 보이신 많은 참가자 분들로 북적였던 Beyond First PR 부스.
 
-Beyond First PR 프로젝트에서는 Hugging Face에 존재하는 다양한 오픈 소스 라이브러리 코드를 개선함으로써, 직접적으로 AI 오픈소스 커뮤니티에 기여하고 있습니다.
+Beyond First PR 프로젝트에서는 Hugging Face에 존재하는 다양한 오픈소스 라이브러리 코드를 개선함으로써, 직접적으로 AI 오픈소스 커뮤니티에 기여하고 있습니다.
 <div align="center">
     <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드1.png" width="500"/>
     <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드2.png" width="500"/>
