@@ -5,9 +5,24 @@ permalink: "/activities/"
 image: assets/images/logo.png
 ---
 
-## Hugging Face Krew 활동 🦸‍♀️🦸‍♂️
+## Hugging Face KREW 활동 🦸‍♀️🦸‍♂️
 
-Hugging Face Krew는 함께 배우고 기여하며 성장하는 커뮤니티입니다! 이곳에서는 Hugging Face 프로젝트에 기여할 수 있는 다양한 활동들이 진행되고 있습니다. 🌟 여기서 지금까지의 활동 및 진행 상황을 확인해보세요. 😊
+Hugging Face KREW는 함께 배우고 기여하며 성장하는 커뮤니티입니다! 이곳에서는 Hugging Face 프로젝트에 기여할 수 있는 다양한 활동들이 진행되고 있습니다. 🌟 여기서 진행 중인 활동 및 진행 상황을 확인해보세요. 😊
+
+---
+### 🌟 가짜연구소에서 스터디 참여하기
+
+2025년 상반기에는 가짜연구소에서 3가지의 스터디를 진행하고 있습니다. 🤩 
+
+#### 🚀 [Beyond First PR](https://github.com/Pseudo-Lab/Hugging-Face-Beyond-the-First-PR?tab=readme-ov-file)
+- Hugging Face 라이브러리에 직접 기여하는 것을 시작으로, 범위를 확장하며 더 넓은 오픈소스 생태계에 기여하는 것이 목표입니다. 
+#### 🌿 [Hugging Face Hub Garden](https://github.com/Pseudo-Lab/Hugging-Face-Hub-Garden)
+- 데이터 수집부터 정제, 다양한 파인튜닝 기법 적용, 성능 평가, 데이터셋 개선까지—전 과정을 직접 경험하고, 더불어 Hugging Face Hub에 한국어 자원을 쌓는 데에 기여할 수 있습니다.
+
+#### 👨‍🍳 [Hugging Face 쿡북요리사](https://github.com/Pseudo-Lab/Hugging-Face-Cookbook-Class-Wars)
+- Hugging Face의 AI Cookbook을 활용해 다양한 분야를 공부하고, Cookbook을 번역 또는 집필하여 Hugging Face에도 직접 기여합니다. 
+
+Hugging Face KREW에서 진행하는 스터디에 참여하고 싶다면 [가짜연구소 디스코드](https://discord.com/invite/HeHbFAvmSZ)에서 최신 소식을 확인하세요! 🙌
 
 ---
 
@@ -32,3 +47,6 @@ Hugging Face의 다양한 문서를 한국어로 번역하는 활동을 진행 �
 번역 진행 상황과 함께, 업데이트가 필요한 문서들과 아직 번역되지 않은 문서들의 목록도 제공하고 있어요. 이를 통해 번역 기여자들이 어떤 부분에 도움을 줄 수 있을지 쉽게 파악할 수 있습니다. 👀
 
 지금 바로 참여하여 Hugging Face의 글로벌 커뮤니티 확장에 기여해보세요! 💪
+
+---
+
