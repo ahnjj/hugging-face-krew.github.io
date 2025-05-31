@@ -43,7 +43,7 @@ Beyond First PR 프로젝트에서는 Hugging Face에 존재하는 다양한 오
 
 Beyond First PR 부스에서는 현재 진행중인 코드기여 이슈들과 진행 과정, 코드기여 과정 중 어려웠던 점들을 꾹꾹 눌러담은 가이드북을 제작해,
 
- PseudoCon 컨퍼런스를 찾아주신 참가자분들께 오픈소스 기여를 독려해주셨는데요!
+ PseudoCon을 찾아주신 참가자분들께 오픈소스 기여를 독려해주셨는데요!
 
 ![비욘드3](assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/비욘드3.png)
 
