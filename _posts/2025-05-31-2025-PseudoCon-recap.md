@@ -1,6 +1,11 @@
-<img width="1321" alt="image" src="https://github.com/user-attachments/assets/b2ca183d-ec22-4b03-bbb7-462838506af2" /><div align="center">
-    <img src="../assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/수도콘.webp" width="350"/>
-</div>
+---
+layout: post
+title: "HuggingFace KREW in 2025 PseudoCon"
+author: Jeong
+categories: [contribute]
+image: assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/수도콘.webp
+---
+5월 17일, 비영리 연구 공동체 '가짜 연구소'가 주최한 PseudoCon에 참여한 현장을 생생히 전달드립니다🤗
 
 안녕하세요, Hugging Face KREW 는 지난 5월 16일, 서울에서 인공지능 컨퍼런스 **2025 PseudoCon**을 진행하였습니다!🤗
 
