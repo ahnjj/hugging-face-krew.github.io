@@ -5,11 +5,12 @@ author: Jeong
 categories: [contribute]
 image: assets/images/blog/posts/2025-05-31-2025-PseudoCon-recap/수도콘.webp
 ---
-5월 17일, 비영리 연구 공동체 '가짜 연구소'가 주최한 PseudoCon에 참여한 현장을 생생히 전달드립니다🤗
+5월 17일, 비영리 연구 공동체 '가짜 연구소'가 주최한 2025 PseudoCon에 참여한 현장을 생생히 전달드립니다 🤗
 
-안녕하세요, Hugging Face KREW 는 지난 5월 16일, 서울에서 인공지능 컨퍼런스 **2025 PseudoCon**을 진행하였습니다!🤗
+----
+Hugging Face KREW 리서치 팀은 인공지능 및 데이터 과학 비영리 모임인 가짜 연구소의 일원으로 활동하고 있는데요, 
+이번 컨퍼런스에서는 KREW의 다양한 활동과 현재 진행 중인 세 가지 프로젝트의 여정을 공유하는 시간을 가졌습니다 🤗
 
-저희 KREW 리서치 팀은 인공지능 및 데이터 과학 비영리 모임 ‘가짜연구소’ 에서 활동을 이어나가고 있는데요, 이번 컨퍼런스에는 Hugging Face KREW의 다양한 활동을 알리고, 진행 중인 3개의 프로젝트 여정을 공유하는 시간을 가졌습니다.
 
 # 👩🏻‍🍳 Hugging Face 쿡북요리사
 <div align="center">
