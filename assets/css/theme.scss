@@ -626,7 +626,17 @@ span.navigation:before {
         padding:10px;
     }
 }
-
+.footer-card-container {
+  display: flex;
+  gap: 10px; /* 카드 사이 간격 */
+  justify-content: center; /* 가운데 정렬 */
+}
+.footer-card {     
+    margin-bottom: 1rem;
+    box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.44);
+    padding: 3px;
+    
+}
 .hover-opacity:hover {
     transition: all 0.3s;
     opacity:.8;
