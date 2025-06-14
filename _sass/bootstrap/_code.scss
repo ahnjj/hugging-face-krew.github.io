@@ -54,3 +54,57 @@ pre {
   max-height: $pre-scrollable-max-height;
   overflow-y: scroll;
 }
+
+// .highlight에 position: relative 보장
+.highlight {
+  position: relative;
+  border-radius: 8px;
+  overflow: visible;
+}
+
+// 코드블럭 헤더
+.code-header {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+  padding: 8px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: #6c757d;
+}
+
+.code-language {
+  font-weight: 500;
+  font-family: inherit;
+}
+
+// 복사 버튼 (헤더 내 위치)
+.copy-code-button {
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 11px;
+  font-family: inherit;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.copy-code-button:hover, .copy-code-button:focus {
+  background-color: #e2e2e2;
+  opacity: 1;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+// 코드 내용 영역
+.highlight pre {
+  margin: 0;
+  padding: 12px;
+  overflow-x: auto;
+  white-space: pre;
+} 
