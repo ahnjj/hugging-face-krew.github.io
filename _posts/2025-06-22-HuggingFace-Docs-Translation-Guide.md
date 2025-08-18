@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Hugging Face transformers 기술 문서 번역 가이드"
-author: HuggingFace First PR Team
-Editor: Jeong Ahn
+author: jeong
 categories: [contribute]
 image: assets/images/blog/posts/2025-06-22-HuggingFace-Docs-Translation-Guide/transformers.png
 ---
@@ -12,7 +11,7 @@ image: assets/images/blog/posts/2025-06-22-HuggingFace-Docs-Translation-Guide/tr
 * TOC
 {:toc}
 <!--toc-->
-🤗 HuggingFace 의 transformers 공식문서 한글화 기여 방법을 전달드립니다!
+HuggingFace First PR 팀에서 제작한 transformers 공식문서 한글화 기여 가이드입니다!🤗
 
 ## 작업 준비
 
