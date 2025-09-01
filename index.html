@@ -22,10 +22,12 @@ background: '/img/bg-index.jpg'
       </button>
       {% assign sorted_categories = site.categories | sort %}
       {% for category in sorted_categories %}
-      <button class="filter-btn" data-category="{{ category[0] | slugify }}">
-        {{ category[0] }}
-        <span class="count">{{ category[1].size }}</span>
-      </button>
+        {% unless category[0] == "banner" %}
+          <button class="filter-btn" data-category="{{ category[0] | slugify }}">
+            {{ category[0] }}
+            <span class="count">{{ category[1].size }}</span>
+          </button>
+        {%endunless%}
       {% endfor %}
     </div>
   </div>
