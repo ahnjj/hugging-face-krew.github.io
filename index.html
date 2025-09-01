@@ -46,11 +46,21 @@ background: '/img/bg-index.jpg'
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
 <section class="row">
-  <div class="col-sm-8">
+  <div class="col-sm-12">
     <div class="row posts-container">
+      <!-- banner 카테고리 포스트 먼저 출력 -->
+      {% assign banners = site.posts | where_exp: "post", "post.categories contains 'banner'" %}
+          {% for post in banners %}
+            {% unless post.featured == true %}
+              <div class="col-md-4 mb-5 post-item" data-categories="{% for cat in post.categories %}{{ cat | slugify }} {% endfor %}">
+                {% include postbox.html %}
+              </div>
+            {% endunless %}
+          {% endfor %}
+      <!-- 일반 포스트 -->
       {% for post in paginator.posts %}
-      {% unless post.featured == true %}
-      <div class="col-md-6 mb-5 post-item" data-categories="{% for cat in post.categories %}{{ cat | slugify }} {% endfor %}">
+      {% unless post.featured == true or post.categories contains 'banner' %}
+      <div class="col-md-4 mb-5 post-item" data-categories="{% for cat in post.categories %}{{ cat | slugify }} {% endfor %}">
         {% include postbox.html %}
       </div>
       {% endunless %}
@@ -62,8 +72,5 @@ background: '/img/bg-index.jpg'
           {% include pagination.html %}
       </span>
     </div>
-  </div>
-  <div class="col-sm-4">
-    {% include sidebar.html %}
   </div>
 </section>
